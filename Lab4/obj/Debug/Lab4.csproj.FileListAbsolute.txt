@@ -5,3 +5,10 @@ C:\Users\Heather\source\repos\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.c
 C:\Users\Heather\source\repos\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
 C:\Users\Heather\source\repos\Lab4\Lab4\obj\Debug\Lab4.exe
 C:\Users\Heather\source\repos\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Heather\Desktop\Grand Circus\Lab4\Lab4\obj\Debug\Lab4.pdb
